@@ -1,8 +1,8 @@
 # lgtmize
 
-a LGTM image generator
+a LGTM image generator written in Go
 
-ref. [Golang で好きな画像を LGTMize する](http://m0t0k1ch1st0ry.com/blog/2015/03/14/lgtmize)
+ref. [Go で好きな画像を LGTMize する](http://m0t0k1ch1st0ry.com/blog/2015/03/14/lgtmize)
 
 ## Installation
 
